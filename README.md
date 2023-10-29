@@ -38,6 +38,7 @@
 - cek ip address komputer dengan cara mengetikan `ipconfig`, dan ambil IPv4 Address
 - Jalankan server lokal dengan cara
   `php artisan serve --host IPv4 Address`
-  #example
+
+  # example
   `php artisan serve --host 192.168.69.253`
 
